@@ -1,0 +1,77 @@
+[
+    {
+        "postId":"001",
+        "content":"Just tried the new \"LushLuxe Glow\" foundation and my skin has never looked this cakey 😩. It oxidized within 10 minutes and turned orange! So disappointed.",
+        "hashtags":[
+            "#LushLuxe",
+            "#MakeupFail",
+            "#FoundationDisaster"
+        ],
+        "views":10250,
+        "reactions":520,
+        "comments":120,
+        "shares":30,
+        "impact_score":0.5753968254,
+        "justify_risk":"The post highlights a negative experience with a cosmetic product, which can influence consumer behavior and perceptions of the brand. By publicly criticizing the foundation's performance, it risks damaging the reputation of LushLuxe and discouraging potential buyers. Additionally, the emotional response conveyed may resonate with others who have had similar experiences, amplifying the risk of a backlash against the product."
+    },
+    {
+        "postId":"002",
+        "content":"This \"LushLuxe\" matte lipstick is a total letdown. It dried out my lips and started flaking after an hour. Not worth the hype.",
+        "hashtags":[
+            "#LushLuxe",
+            "#LipstickMess",
+            "#CosmeticRegret"
+        ],
+        "views":8500,
+        "reactions":300,
+        "comments":90,
+        "shares":15,
+        "impact_score":0.2579365079,
+        "justify_risk":"The content critiques the performance of a specific cosmetic product, suggesting it may not meet consumer expectations regarding quality and wearability. The risk lies in potential backlash from the brand, which could lead to legal actions for defamation or negative public relations if perceived as false or misleading. Additionally, this negative review could influence potential buyers, impacting the product's sales and the brand’s reputation."
+    },
+    {
+        "postId":"003",
+        "content":"Been using \"LushLuxe Radiance Cream\" for 2 weeks and my skin is actually worse. Breakouts everywhere 😤. Anyone else having issues??",
+        "hashtags":[
+            "#LushLuxe",
+            "#SkincareFail",
+            "#RegretBuying"
+        ],
+        "views":12700,
+        "reactions":610,
+        "comments":250,
+        "shares":40,
+        "impact_score":1.0,
+        "justify_risk":"The post highlights a negative experience with a skincare product, potentially raising concerns about its safety and efficacy. This could influence others' purchasing decisions and harm the brand's reputation. Additionally, it invites similar negative feedback, escalating dissatisfaction among users."
+    },
+    {
+        "postId":"004",
+        "content":"Why is the \"LushLuxe VolumeMax\" mascara clumping so bad? My lashes look like spider legs 🕷️. Not cute.",
+        "hashtags":[
+            "#LushLuxe",
+            "#MascaraFail",
+            "#NotSoVolumeMax"
+        ],
+        "views":6700,
+        "reactions":280,
+        "comments":70,
+        "shares":10,
+        "impact_score":0.0,
+        "justify_risk":"The risk of this post content lies in its potential to mislead consumers into thinking that the \"LushLuxe VolumeMax\" mascara universally results in clumping, which could harm the brand's reputation and sales. Additionally, sharing a negative personal experience without constructive feedback may influence others to avoid the product based solely on subjective interpretation. This could also lead to increased scrutiny and criticism of the brand, emphasizing the importance of responsible product reviews."
+    },
+    {
+        "postId":"005",
+        "content":"Bought the \"LushLuxe Dream Palette\" and the fallout is ridiculous. Barely any pigment too. Ugh.",
+        "hashtags":[
+            "#LushLuxe",
+            "#EyeshadowLetdown",
+            "#WasteOfMoney"
+        ],
+        "views":9400,
+        "reactions":400,
+        "comments":110,
+        "shares":25,
+        "impact_score":0.421957672,
+        "justify_risk":"The post content risks discouraging potential buyers from purchasing the \"LushLuxe Dream Palette\" due to concerns about product quality, specifically related to fallout and pigment intensity. Negative reviews can impact the brand's reputation and sales if they resonate with other users' experiences. Additionally, such feedback may deter customers from exploring other products in the brand's lineup, limiting their market reach."
+    }
+]
