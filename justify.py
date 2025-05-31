@@ -3,6 +3,7 @@ from openai import OpenAI
 import json
 from sklearn.preprocessing import MinMaxScaler
 # create a def to read json file
+
 def read_json(file_path):
     with open(file_path, 'r',encoding='utf-8') as f:
         data = json.load(f)
@@ -50,15 +51,15 @@ def call_prompt(prompt_data, secret_key=None):
     return df_post
 
 
-if __name__ == "__main__":
-    path = 'smart_social_scan'
-    # Read the key-value pairs from the file
-    key_value = read_key_value(path + '/secrete.json')
-    # read post dada from json file
-    post_data = read_json(path + '/post.json')
-    # Call the prompt with the post data and secret key
-    response = call_prompt(post_data, secret_key=key_value)
-    # Save the response to a new JSON file
-    response.to_json(path + '/post_justified.json', orient='records', force_ascii=False, indent=4)
-    print("done justifying")
+# if __name__ == "__main__":
+#     path = 'smart_social_scan'
+#     # Read the key-value pairs from the file
+#     key_value = read_key_value(path + '/secrete.json')
+#     # read post dada from json file
+#     post_data = read_json(path + '/post.json')
+#     # Call the prompt with the post data and secret key
+#     response = call_prompt(post_data, secret_key=key_value)
+#     # Save the response to a new JSON file
+#     response.to_json(path + '/post_justified.json', orient='records', force_ascii=False, indent=4)
+#     print("done justifying")
     
