@@ -5,8 +5,9 @@ import justify
 st.title("Smart Social Scan", anchor="main")
 # add the description
 st.write("This is a tool to scan social media posts for potential risks and provide justifications for those risks.")
-
+print(st.secrets["secret_key"])
 # add the input file as json
+
 st.write("Please upload a JSON file containing social media posts data.")
 uploaded_file = st.file_uploader("Upload JSON file", type=["json"])
 
@@ -26,3 +27,4 @@ if uploaded_file is not None:
     justify.read_key_value('smart_social_scan/secrete.json')
     # Example of displaying a message after processing
     st.success("Justification completed successfully!")
+    
